@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+font-family:verdana
+}
+
+input[type=submit] {
+  background-color: #0A8277;
+  color: white;
+font-family:verdana
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+width: 90px;
+height: 30px;
+}
+
+input[type=submit]:hover {
+  background-color: #59BDB4;
+}
+
+/* Style the container */
+.container {
+  border-radius: 5px;
+width: 90%;
+margin: 20px;
+  background-color: #E9F8F7;
+  padding: 5px;
+align: center;
+
+}
+
+.cont {
+  border-radius: 5px;
+width: 50%;
+margin: 20px;
+  background-color: #E9F8F7;
+  padding: 5px;
+font-family:verdana
+
+}
